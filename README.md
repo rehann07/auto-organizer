@@ -20,7 +20,7 @@ The script maps file extensions to specific categories and moves them automatica
 1. Clone the repository:
    
     ```bash
-    git clone 
+    git clone https://github.com/rehann07/auto-organizer.git
     ```
 2. Navigate to the directory:
    
